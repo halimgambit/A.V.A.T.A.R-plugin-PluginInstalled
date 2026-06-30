@@ -1,5 +1,5 @@
 # PluginInstalled
-AuRapport analyse ton système et te donne en un mot le nombre exact de plugins installés.
+PluginInstalled analyse ton système et te donne en un mot le nombre exact de plugins installés.
 
 This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.github.io/docs) framework.
 
