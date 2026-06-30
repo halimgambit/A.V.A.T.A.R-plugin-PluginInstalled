@@ -6,7 +6,7 @@ This plugin is an add-on for the [A.V.A.T.A.R](https://avatar-home-automation.gi
 🎯 Usage
 Commandes :
 
-au rapport 
+combien de plugin installer
 
 # Multi-room
 The PluginInstalled plugin is fully multi-room.
