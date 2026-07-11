@@ -22,7 +22,7 @@ The `PluginInstalled` plugin relies solely on the system's available languages.
     <td style="border: none;"><img src="PluginInstalled/assets/images/PluginInstalled.png" alt="PluginInstalled Logo" width="120"></td>
     <td style="border: none;">
       <h1 style="margin: 0;color: brown;">PluginInstalled</h1>
-      <h3 style="margin: 0;">Control Volume Pc</h3>
+      <h3 style="margin: 0;">Plugins installed</h3>
     </td>
   </tr>
 </table>
