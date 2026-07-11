@@ -1,0 +1,12 @@
+{
+	"modules": { 
+		"PluginInstalled": {
+			"version": "1.0",
+			"name": "PluginInstalled",
+			"rules": {
+				"pluginCount": ["plugin","plugins"]
+			}
+		}
+	}
+}
+			
